@@ -1,4 +1,4 @@
-name: Build Kernel Template (Cannot be used for compilation directly)
+name: Build Kernel  Sirius Lineageos22.2 (Cannot be used for compilation directly)
 on:
   workflow_call:
   workflow_dispatch:
